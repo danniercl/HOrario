@@ -1,0 +1,906 @@
+GENERADOR DE HORARIOS
+
+Total de Creditos: 13
+
+HORARIO 1
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|		|		|		|  Meca		|		|		|
+	|		|		|		|001  MCV	|		|		|
+|10:00am|  Meca		|		|		|  Meca		|		|		|
+	|001  MCV	|		|		|001  MCV	|		|		|
+|11:00am|  Meca		|		|		|		|		|		|
+	|001  MCV	|		|		|		|		|		|
+|12:00md|  Meca		|		|		|		|		|		|
+	|001  MCV	|		|		|		|		|		|
+|1:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|051  A.Argüello|		|		|		|		|
+|2:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|051  A.Argüello|		|		|		|		|
+|3:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|051  A.Argüello|		|		|		|		|
+|4:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|5:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|6:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|7:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|8:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|9:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+
+
+HORARIO 2
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|		|		|		|  Meca		|		|		|
+	|		|		|		|001  MCV	|		|		|
+|10:00am|  Meca		|		|		|  Meca		|		|		|
+	|001  MCV	|		|		|001  MCV	|		|		|
+|11:00am|  Meca		|		|		|		|		|		|
+	|001  MCV	|		|		|		|		|		|
+|12:00md|  Meca		|		|		|		|		|		|
+	|001  MCV	|		|		|		|		|		|
+|1:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|2:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|3:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|4:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|5:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|6:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|7:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|8:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|9:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+
+
+HORARIO 3
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|		|		|		|  Meca		|		|		|
+	|		|		|		|001  MCV	|		|		|
+|10:00am|  Meca		|		|		|  Meca		|		|		|
+	|001  MCV	|		|		|001  MCV	|		|		|
+|11:00am|  Meca		|		|		|		|		|		|
+	|001  MCV	|		|		|		|		|		|
+|12:00md|  Meca		|		|		|		|		|		|
+	|001  MCV	|		|		|		|		|		|
+|1:00pm	|  Labo Maq	|		|		|		|		|		|
+	|053  J.Sanchez	|		|		|		|		|		|
+|2:00pm	|  Labo Maq	|		|		|		|		|		|
+	|053  J.Sanchez	|		|		|		|		|		|
+|3:00pm	|  Labo Maq	|		|		|		|		|		|
+	|053  J.Sanchez	|		|		|		|		|		|
+|4:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|5:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|6:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|7:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|8:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|9:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+
+
+HORARIO 4
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|		|		|		|  Meca		|		|		|
+	|		|		|		|001  MCV	|		|		|
+|10:00am|  Meca		|		|		|  Meca		|		|		|
+	|001  MCV	|		|		|001  MCV	|		|		|
+|11:00am|  Meca		|		|		|		|		|		|
+	|001  MCV	|		|		|		|		|		|
+|12:00md|  Meca		|		|		|		|		|		|
+	|001  MCV	|		|		|		|		|		|
+|1:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|2:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|3:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|4:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|5:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|6:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|7:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|8:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|9:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+
+
+HORARIO 5
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|		|		|		|		|  Meca		|		|
+	|		|		|		|		|003  WMC	|		|
+|10:00am|		|  Meca		|		|		|  Meca		|		|
+	|		|003  WMC	|		|		|003  WMC	|		|
+|11:00am|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|12:00md|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|1:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|051  A.Argüello|		|		|		|		|
+|2:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|051  A.Argüello|		|		|		|		|
+|3:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|051  A.Argüello|		|		|		|		|
+|4:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|5:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|6:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|7:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|8:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|9:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+
+
+HORARIO 6
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|		|		|		|		|  Meca		|		|
+	|		|		|		|		|003  WMC	|		|
+|10:00am|		|  Meca		|		|		|  Meca		|		|
+	|		|003  WMC	|		|		|003  WMC	|		|
+|11:00am|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|12:00md|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|1:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|2:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|3:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|4:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|5:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|6:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|7:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|8:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|9:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+
+
+HORARIO 7
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|		|		|		|		|  Meca		|		|
+	|		|		|		|		|003  WMC	|		|
+|10:00am|		|  Meca		|		|		|  Meca		|		|
+	|		|003  WMC	|		|		|003  WMC	|		|
+|11:00am|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|12:00md|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|1:00pm	|  Labo Maq	|		|		|		|		|		|
+	|053  J.Sanchez	|		|		|		|		|		|
+|2:00pm	|  Labo Maq	|		|		|		|		|		|
+	|053  J.Sanchez	|		|		|		|		|		|
+|3:00pm	|  Labo Maq	|		|		|		|		|		|
+	|053  J.Sanchez	|		|		|		|		|		|
+|4:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|5:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|6:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|7:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|8:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|9:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+
+
+HORARIO 8
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|		|		|		|		|  Meca		|		|
+	|		|		|		|		|003  WMC	|		|
+|10:00am|		|  Meca		|		|		|  Meca		|		|
+	|		|003  WMC	|		|		|003  WMC	|		|
+|11:00am|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|12:00md|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|1:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|2:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|3:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|4:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|5:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|6:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|7:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|8:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|9:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+
+
+HORARIO 9
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|10:00am|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|11:00am|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|12:00md|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|1:00pm	|  Meca		|  Labo Maq	|		|  Meca		|		|		|
+	|004  Nombre	|051  A.Argüello|		|004  Nombre	|		|		|
+|2:00pm	|  Meca		|  Labo Maq	|		|  Meca		|		|		|
+	|004  Nombre	|051  A.Argüello|		|004  Nombre	|		|		|
+|3:00pm	|  Meca		|  Labo Maq	|		|		|		|		|
+	|004  Nombre	|051  A.Argüello|		|		|		|		|
+|4:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|5:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|6:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|7:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|8:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|9:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+
+
+HORARIO 10
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|10:00am|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|11:00am|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|12:00md|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|1:00pm	|  Meca		|		|		|  Meca		|		|		|
+	|004  Nombre	|		|		|004  Nombre	|		|		|
+|2:00pm	|  Meca		|		|		|  Meca		|		|		|
+	|004  Nombre	|		|		|004  Nombre	|		|		|
+|3:00pm	|  Meca		|		|		|		|		|		|
+	|004  Nombre	|		|		|		|		|		|
+|4:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|5:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|6:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|7:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|8:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|9:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+
+
+HORARIO 11
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|10:00am|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|11:00am|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|12:00md|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|1:00pm	|  Meca		|		|		|  Meca		|		|		|
+	|004  Nombre	|		|		|004  Nombre	|		|		|
+|2:00pm	|  Meca		|		|		|  Meca		|		|		|
+	|004  Nombre	|		|		|004  Nombre	|		|		|
+|3:00pm	|  Meca		|		|		|		|		|		|
+	|004  Nombre	|		|		|		|		|		|
+|4:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|5:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|6:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|7:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|8:00pm	|		|  Estructuras	|  Ing Económic	|		|  Estructuras	|		|
+	|		|001  Ortiz	|001  Walther	|		|001  Ortiz	|		|
+|9:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+
+
+HORARIO 12
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|  Estructuras	|		|		|  Estructuras	|  Meca		|		|
+	|002  Lochi	|		|		|002  Lochi	|003  WMC	|		|
+|10:00am|  Estructuras	|  Meca		|		|  Estructuras	|  Meca		|		|
+	|002  Lochi	|003  WMC	|		|002  Lochi	|003  WMC	|		|
+|11:00am|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|12:00md|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|1:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|051  A.Argüello|		|		|		|		|
+|2:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|051  A.Argüello|		|		|		|		|
+|3:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|051  A.Argüello|		|		|		|		|
+|4:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|5:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|6:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|7:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+|8:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+|9:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+
+
+HORARIO 13
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|  Estructuras	|		|		|  Estructuras	|  Meca		|		|
+	|002  Lochi	|		|		|002  Lochi	|003  WMC	|		|
+|10:00am|  Estructuras	|  Meca		|		|  Estructuras	|  Meca		|		|
+	|002  Lochi	|003  WMC	|		|002  Lochi	|003  WMC	|		|
+|11:00am|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|12:00md|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|1:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|2:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|3:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|4:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|5:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|6:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|7:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+|8:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+|9:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+
+
+HORARIO 14
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|  Estructuras	|		|		|  Estructuras	|  Meca		|		|
+	|002  Lochi	|		|		|002  Lochi	|003  WMC	|		|
+|10:00am|  Estructuras	|  Meca		|		|  Estructuras	|  Meca		|		|
+	|002  Lochi	|003  WMC	|		|002  Lochi	|003  WMC	|		|
+|11:00am|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|12:00md|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|1:00pm	|  Labo Maq	|		|		|		|		|		|
+	|053  J.Sanchez	|		|		|		|		|		|
+|2:00pm	|  Labo Maq	|		|		|		|		|		|
+	|053  J.Sanchez	|		|		|		|		|		|
+|3:00pm	|  Labo Maq	|		|		|		|		|		|
+	|053  J.Sanchez	|		|		|		|		|		|
+|4:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|5:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|6:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|7:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+|8:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+|9:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+
+
+HORARIO 15
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|  Estructuras	|		|		|  Estructuras	|  Meca		|		|
+	|002  Lochi	|		|		|002  Lochi	|003  WMC	|		|
+|10:00am|  Estructuras	|  Meca		|		|  Estructuras	|  Meca		|		|
+	|002  Lochi	|003  WMC	|		|002  Lochi	|003  WMC	|		|
+|11:00am|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|12:00md|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|1:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|2:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|3:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|4:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|5:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|6:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|7:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+|8:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+|9:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+
+
+HORARIO 16
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|  Estructuras	|		|		|  Estructuras	|  Meca		|		|
+	|002  Lochi	|		|		|002  Lochi	|003  WMC	|		|
+|10:00am|  Estructuras	|  Meca		|		|  Estructuras	|  Meca		|		|
+	|002  Lochi	|003  WMC	|		|002  Lochi	|003  WMC	|		|
+|11:00am|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|12:00md|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|1:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|051  A.Argüello|		|		|		|		|
+|2:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|051  A.Argüello|		|		|		|		|
+|3:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|051  A.Argüello|		|		|		|		|
+|4:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|5:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|6:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|7:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+|8:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+|9:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+
+
+HORARIO 17
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|  Estructuras	|		|		|  Estructuras	|  Meca		|		|
+	|002  Lochi	|		|		|002  Lochi	|003  WMC	|		|
+|10:00am|  Estructuras	|  Meca		|		|  Estructuras	|  Meca		|		|
+	|002  Lochi	|003  WMC	|		|002  Lochi	|003  WMC	|		|
+|11:00am|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|12:00md|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|1:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|2:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|3:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|4:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|5:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|6:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|7:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+|8:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+|9:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+
+
+HORARIO 18
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|  Estructuras	|		|		|  Estructuras	|  Meca		|		|
+	|002  Lochi	|		|		|002  Lochi	|003  WMC	|		|
+|10:00am|  Estructuras	|  Meca		|		|  Estructuras	|  Meca		|		|
+	|002  Lochi	|003  WMC	|		|002  Lochi	|003  WMC	|		|
+|11:00am|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|12:00md|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|1:00pm	|  Labo Maq	|		|		|		|		|		|
+	|053  J.Sanchez	|		|		|		|		|		|
+|2:00pm	|  Labo Maq	|		|		|		|		|		|
+	|053  J.Sanchez	|		|		|		|		|		|
+|3:00pm	|  Labo Maq	|		|		|		|		|		|
+	|053  J.Sanchez	|		|		|		|		|		|
+|4:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|5:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|6:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|7:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+|8:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+|9:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+
+
+HORARIO 19
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|  Estructuras	|		|		|  Estructuras	|  Meca		|		|
+	|002  Lochi	|		|		|002  Lochi	|003  WMC	|		|
+|10:00am|  Estructuras	|  Meca		|		|  Estructuras	|  Meca		|		|
+	|002  Lochi	|003  WMC	|		|002  Lochi	|003  WMC	|		|
+|11:00am|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|12:00md|		|  Meca		|		|		|		|		|
+	|		|003  WMC	|		|		|		|		|
+|1:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|2:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|3:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|4:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|5:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|6:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|7:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+|8:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+|9:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+
+
+HORARIO 20
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|  Estructuras	|		|		|  Estructuras	|		|		|
+	|002  Lochi	|		|		|002  Lochi	|		|		|
+|10:00am|  Estructuras	|		|		|  Estructuras	|		|		|
+	|002  Lochi	|		|		|002  Lochi	|		|		|
+|11:00am|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|12:00md|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|1:00pm	|  Meca		|  Labo Maq	|		|  Meca		|		|		|
+	|004  Nombre	|051  A.Argüello|		|004  Nombre	|		|		|
+|2:00pm	|  Meca		|  Labo Maq	|		|  Meca		|		|		|
+	|004  Nombre	|051  A.Argüello|		|004  Nombre	|		|		|
+|3:00pm	|  Meca		|  Labo Maq	|		|		|		|		|
+	|004  Nombre	|051  A.Argüello|		|		|		|		|
+|4:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|5:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|6:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|7:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+|8:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+|9:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+
+
+HORARIO 21
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|  Estructuras	|		|		|  Estructuras	|		|		|
+	|002  Lochi	|		|		|002  Lochi	|		|		|
+|10:00am|  Estructuras	|		|		|  Estructuras	|		|		|
+	|002  Lochi	|		|		|002  Lochi	|		|		|
+|11:00am|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|12:00md|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|1:00pm	|  Meca		|		|		|  Meca		|		|		|
+	|004  Nombre	|		|		|004  Nombre	|		|		|
+|2:00pm	|  Meca		|		|		|  Meca		|		|		|
+	|004  Nombre	|		|		|004  Nombre	|		|		|
+|3:00pm	|  Meca		|		|		|		|		|		|
+	|004  Nombre	|		|		|		|		|		|
+|4:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|5:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|6:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|7:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+|8:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+|9:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+
+
+HORARIO 22
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|  Estructuras	|		|		|  Estructuras	|		|		|
+	|002  Lochi	|		|		|002  Lochi	|		|		|
+|10:00am|  Estructuras	|		|		|  Estructuras	|		|		|
+	|002  Lochi	|		|		|002  Lochi	|		|		|
+|11:00am|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|12:00md|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|1:00pm	|  Meca		|		|		|  Meca		|		|		|
+	|004  Nombre	|		|		|004  Nombre	|		|		|
+|2:00pm	|  Meca		|		|		|  Meca		|		|		|
+	|004  Nombre	|		|		|004  Nombre	|		|		|
+|3:00pm	|  Meca		|		|		|		|		|		|
+	|004  Nombre	|		|		|		|		|		|
+|4:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|5:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|6:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|7:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+|8:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+|9:00pm	|		|		|  Ing Económic	|		|		|		|
+	|		|		|001  Walther	|		|		|		|
+
+
+HORARIO 23
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|  Estructuras	|		|		|  Estructuras	|		|		|
+	|002  Lochi	|		|		|002  Lochi	|		|		|
+|10:00am|  Estructuras	|		|		|  Estructuras	|		|		|
+	|002  Lochi	|		|		|002  Lochi	|		|		|
+|11:00am|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|12:00md|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|1:00pm	|  Meca		|  Labo Maq	|		|  Meca		|		|		|
+	|004  Nombre	|051  A.Argüello|		|004  Nombre	|		|		|
+|2:00pm	|  Meca		|  Labo Maq	|		|  Meca		|		|		|
+	|004  Nombre	|051  A.Argüello|		|004  Nombre	|		|		|
+|3:00pm	|  Meca		|  Labo Maq	|		|		|		|		|
+	|004  Nombre	|051  A.Argüello|		|		|		|		|
+|4:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|5:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|6:00pm	|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|7:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+|8:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+|9:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+
+
+HORARIO 24
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|  Estructuras	|		|		|  Estructuras	|		|		|
+	|002  Lochi	|		|		|002  Lochi	|		|		|
+|10:00am|  Estructuras	|		|		|  Estructuras	|		|		|
+	|002  Lochi	|		|		|002  Lochi	|		|		|
+|11:00am|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|12:00md|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|1:00pm	|  Meca		|		|		|  Meca		|		|		|
+	|004  Nombre	|		|		|004  Nombre	|		|		|
+|2:00pm	|  Meca		|		|		|  Meca		|		|		|
+	|004  Nombre	|		|		|004  Nombre	|		|		|
+|3:00pm	|  Meca		|		|		|		|		|		|
+	|004  Nombre	|		|		|		|		|		|
+|4:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|5:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|6:00pm	|		|  Labo Maq	|		|		|		|		|
+	|		|052  O.Fernande|		|		|		|		|
+|7:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+|8:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+|9:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+
+
+HORARIO 25
+
+|HORA	|LUNES		|KARTES		|MIERCOLES	|JUEVES		|VIERNES	|SABADO		|
+	|		|		|		|		|		|		|
+|7:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|8:00am	|  Maquinas 2	|		|		|  Maquinas 2	|		|		|
+	|001  Gustavo	|		|		|001  Gustavo	|		|		|
+|9:00am	|  Estructuras	|		|		|  Estructuras	|		|		|
+	|002  Lochi	|		|		|002  Lochi	|		|		|
+|10:00am|  Estructuras	|		|		|  Estructuras	|		|		|
+	|002  Lochi	|		|		|002  Lochi	|		|		|
+|11:00am|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|12:00md|		|		|		|		|		|		|
+	|		|		|		|		|		|		|
+|1:00pm	|  Meca		|		|		|  Meca		|		|		|
+	|004  Nombre	|		|		|004  Nombre	|		|		|
+|2:00pm	|  Meca		|		|		|  Meca		|		|		|
+	|004  Nombre	|		|		|004  Nombre	|		|		|
+|3:00pm	|  Meca		|		|		|		|		|		|
+	|004  Nombre	|		|		|		|		|		|
+|4:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|5:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|6:00pm	|  Labo Maq	|		|		|		|		|		|
+	|054  J.Rodrigez|		|		|		|		|		|
+|7:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+|8:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+|9:00pm	|		|  Ing Económic	|		|		|		|		|
+	|		|002  Toribio	|		|		|		|		|
+
+Creado por Dannier Castro L., by ES Corp
+dannier@thinkescorp.com, 
+facebook.com/EScorp.cr - twitter.com/EScorpCR
